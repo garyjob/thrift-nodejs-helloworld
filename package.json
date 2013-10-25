@@ -1,0 +1,10 @@
+{
+  "name": "thrift-nodejs-helloworld",
+  "version": "0.0.1",
+  "author": "Gary Teh <garyjob@gmail.com>",
+  "description": "",
+  "main": "server.coffee",
+  "dependencies": {
+    "thrift": ""
+  }
+}
