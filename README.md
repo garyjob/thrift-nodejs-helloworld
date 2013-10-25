@@ -6,7 +6,12 @@
 ## Overview
 Implements a client server thrift demonstration
 
-### Setup Server
+### Install dependencies
+```console
+npm install
+```
+
+### Run Server
 ```console
 coffee server.coffee
 ```
